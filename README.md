@@ -59,6 +59,5 @@ fallback image for [Card.ImageCap] component.
 `/paragon/_overrides.scss` A SASS theme for
 [\@edx/paragon](https://github.com/openedx/paragon). Theming
 documentation in Paragon is coming soon. In the meantime, you can start
-a theme by the contents of [\_variables.scss (after line
-7)](https://github.com/openedx/paragon/blob/master/scss/core/_variables.scss#L7-L1046)
+a theme by the contents of [\_variables.scss (after line 7)](https://github.com/openedx/paragon/blob/master/scss/core/_variables.scss#L7-L1046)
 file from the Paragon repository into this file.
